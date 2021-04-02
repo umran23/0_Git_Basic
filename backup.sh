@@ -2,3 +2,4 @@
 ~/git/test/backup.sh
 #this is a comment
 это ощибка
+#adding some lines
